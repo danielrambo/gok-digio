@@ -1,4 +1,3 @@
 # gok-digio
 
--> Projeto usando a arquitetura MVVM;
--> Criado testes para os repositórios.
+-> Projeto usando a arquitetura MVVM e testes para os repositórios.
